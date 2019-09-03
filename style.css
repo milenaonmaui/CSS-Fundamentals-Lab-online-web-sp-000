@@ -32,3 +32,8 @@ figcaption {
   text-align: center;
   margin:auto;
 }
+
+#details {
+  display:block;
+  float: left;
+}
